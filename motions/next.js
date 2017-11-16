@@ -44,5 +44,5 @@ var dmotion = {
                 </ul>
                 
             </div>
-            <p><a class="button" href="https://jdc.js.org/dev-node-rep">Go Back Here</a></p>`
+            <p><a class="button" href="https://jdc.js.org/">Go Back Here</a></p>`
 };
