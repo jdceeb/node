@@ -8,7 +8,8 @@ var dmotion = {
                     1. Ella (S3)
                     2. Sofia (S3)
                     3. Megan (s4)
-                    4. Lorenzo (S4)<br><br>
+                    4. Lorenzo (S4)
+                    <br><br>
                     OPPOSITION (AGAINST):<br>
                     1. Anya (S3)
                     2. Amalia (S3)
