@@ -8,13 +8,13 @@ var dmotion = {
                     1. Ella (S3)
                     2. Sofia (S3)
                     3. Megan (s4)
-                    4. Lorenzo (S4)<br>
+                    4. Lorenzo (S4)<br><br>
                     OPPOSITION (AGAINST):<br>
                     1. Anya (S3)
                     2. Amalia (S3)
                     3. Fabian (S4)
                     4. Alma (S4)
-                    <br>
+                    <br><br>
                     Substitutes:<br>
                     1. Adam (s3)
                     2. Thomas (s3)
@@ -28,13 +28,13 @@ var dmotion = {
                     1. Daniel (S3)
                     2. Julie (s3)
                     3. Giulia (S4)
-                    4. Oskar (S4)<br>
+                    4. Oskar (S4)<br><br>
                     OPPOSITION (AGAINST):<br>
                     1. Tiago (S3)
                     2. Nea (S3)
                     3. Kristaps (S4)
                     4. Olivia (S4)
-                      <br>
+                      <br><br>
                     Substitutes:<br>
                     1. Emma (s3)
                     2. Roisin (s3)
